@@ -1,0 +1,1 @@
+https://www.activestate.com/blog/how-to-build-a-blockchain-in-python/#:~:text=A%20Python%20blockchain%20is%20simply,create%20a%20blockchain%20in%20Python%3A&text=Encrypt%20each%20block%20with%20a%20cryptographic%20hash%20function%20to%20ensure%20immutability
